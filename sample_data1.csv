@@ -1,7 +1,0 @@
-Product_ID,Product_Name,Price,Quantity,Order_Date
-1001,Widget A,10.5,150,15-01-2023
-1002,Widget B,20.75,200,17-02-2023
-1003,Widget C,5.99,250,21-03-2023
-1004,Widget A,-1.5,100,01-04-2023
-1005,Widget E,15,300,10-05-2023
-1006, ,10.5,100,01-06-2023
