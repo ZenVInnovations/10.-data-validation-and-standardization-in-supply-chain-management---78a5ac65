@@ -1,0 +1,7 @@
+Product_ID,Product_Name,Price,Quantity,Order_Date,Supplier
+1001,Widget A,10.5,150,15-01-2023,SupplierX
+1002,Widget B,20.75,200,17-02-2023,SupplierY
+1003,Widget C,5.99,250,21-03-2023,SupplierZ
+1004,Widget A,-1.5,100,04-01-2023,SupplierX
+1005,Widget E,15,300,05-10-2023,SupplierW
+1006,,10.5,100,06-01-2023,SupplierX

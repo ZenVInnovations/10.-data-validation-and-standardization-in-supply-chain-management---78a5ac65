@@ -1,0 +1,6 @@
+Product_ID,Product_Name,Price,Quantity,Order_Date,Supplier,Anomaly_Flag
+1001,widget a,10.5,150,2023-01-15,supplierx,Normal
+1002,widget b,20.75,200,2023-02-17,suppliery,Normal
+1003,widget c,5.99,250,2023-03-21,supplierz,Normal
+1005,widget e,15.0,300,2023-05-10,supplierw,Normal
+1006,widget a,10.5,100,2023-06-01,supplierx,Normal
